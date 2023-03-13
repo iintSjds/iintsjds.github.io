@@ -16,41 +16,33 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am a Ph.D. student majoring physics at UMass Amherst.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes superconductivity and strongly correlated electrons. I have published several papers total <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (google scholar badge <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+# Publications 
+
+- [Probing Superconductivity in Two-dimensional Uniform Electron Gas by Precursory Cooper Flow](https://arxiv.org/abs/2303.03624), Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **ArXiv 2303.03624**(2023) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+- [On the Origin of Coulomb Pseudopotential: Two Wrongs Make a "Right"](https://arxiv.org/abs/2207.05238), Tao Wang, **Xiansheng Cai**, Kun Chen\*, Nikolay Prokof'ev\*, and Boris Svistunov\*,  **ArXiv 2207.05238**(2022) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:eQOLeE2rZwMC'></span></strong>
+
+- [Superconductivity in the Uniform Electron Gas: Irrelevance of Kohn-Luttinger Mechanism](https://arxiv.org/abs/2202.01320), **Xiansheng Cai**, Tao Wang, Nikolay Prokof'ev\*,  Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. B 106, L220502**(2022)<strong><span class='show_paper_citations' data='BTVksHYAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+- [Quantum-to-classical correspondence in two-dimensional Heisenberg models](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.035132), Tao Wang, **Xiansheng Cai**, Kun Chen, Nikolay Prokof'ev, Boris Svistunov. **Phys. Rev. B 101, 035132**(2020)<strong><span class='show_paper_citations' data='BTVksHYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+
+# Talks
+
+- *2023.3*, **APS March Meeting**, Linear Response Approach to Superconducting Phase Transition Temperature.
+
+- *2022.10*, **CCQ Seminar** (Flatiron, New York City), Linear response approach to the superconducting transition temperature.
+
+- *2022.4*, **Simons Collab. on the Many Electron Problem Lectures** (Flatiron, New York City), Superconductivity in the Uniform Electron Gas with and without electron-phonon interactions.
+
+- *2021.3*, **APS March Meeting**, Cooper instability in the Jellium model: Implicit renormalization approach.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Educations
 
-# 📝 Publications 
+- *Sep 2017 - now*, PhD, University of Massachusetts Amherst, Massachusetts, USA
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=BTVksHYAAAAJ&citation_for_view=BTVksHYAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:YsMSGLbcyi4C'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Sep 2013 - Jun 2017*, B.S. University of Science and Technology of China, Hefei, China
