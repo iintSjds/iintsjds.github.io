@@ -126,7 +126,13 @@ defaults:
     values:
       layout: default
       author_profile: true
-
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: default
+      author_profile: true
 
 # Sass/SCSS
 sass:
