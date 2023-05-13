@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a Ph.D. student majoring physics at UMass Amherst.
 
-My research interest includes superconductivity and strongly correlated electrons. I have published several papers total <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (google scholar badge <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes superconductivity and strongly correlated electrons. I have published several papers total google scholar <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # Publications 
 <span class='anchor' id='-publications'></span>
