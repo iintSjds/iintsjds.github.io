@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "/publications"
 
-  - title: "Educations"
-    url: "/about/#-educations"
+  # - title: "Educations"
+  #   url: "/about/#-educations"
 
-  - title: "Invited Talks"
-    url: "/about/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/about/#-invited-talks"
