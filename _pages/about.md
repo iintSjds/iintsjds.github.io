@@ -16,9 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. student majoring physics at UMass Amherst.
+I am a Ph.D. student majoring physics at the University of Massachusetts Amherst, under the supervision of Prof. Nikolay Prokof'ev and Boris Svistunov.
 
-My research interest includes superconductivity and strongly correlated electrons. I have published several papers total google scholar <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests encompass theoretical and numerical
+quantum many-body physics, with a particular emphasis on correlated electrons
+and frustrated magnetism. My recent research primarily centers on first principle study of superconductivity with quantum field theoretical approach and modern
+numerical techniques. 
+I have published several papers total google scholar <a href='https://scholar.google.com/citations?user=BTVksHYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 I'm also working in collaboration with other developers to develop a Julia project of numerical framework for effective field theory in quantum many-body systems:
 <a href="https://github.com/numericalEFT">numericalEFT</a>.
 
@@ -27,7 +31,7 @@ I'm also working in collaboration with other developers to develop a Julia proje
 
 - [Probing Superconductivity in Two-dimensional Uniform Electron Gas by Precursory Cooper Flow](https://arxiv.org/abs/2303.03624), Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **ArXiv 2303.03624**(2023) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:_FxGoFyzp5QC'></span></strong>
 
-- [On the Origin of Coulomb Pseudopotential: Two Wrongs Make a "Right"](https://arxiv.org/abs/2207.05238), Tao Wang, **Xiansheng Cai**, Kun Chen\*, Nikolay Prokof'ev\*, and Boris Svistunov\*,  **ArXiv 2207.05238**(2022) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:eQOLeE2rZwMC'></span></strong>
+- [Origin of Coulomb Pseudopotential](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L140507), Tao Wang, **Xiansheng Cai**, Kun Chen\*, Nikolay Prokof'ev\*, and Boris Svistunov\*,  **Phys. Rev. B 107, L140507**(2023) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:LkGwnXOMwfcC'></span></strong>
 
 - [Superconductivity in the Uniform Electron Gas: Irrelevance of Kohn-Luttinger Mechanism](https://arxiv.org/abs/2202.01320), **Xiansheng Cai**, Tao Wang, Nikolay Prokof'ev\*,  Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. B 106, L220502**(2022)<strong><span class='show_paper_citations' data='BTVksHYAAAAJ:YsMSGLbcyi4C'></span></strong>
 
