@@ -24,7 +24,7 @@ Superconductivity at low temperature -- observed in lithium and bismuth, as well
 ## [Origin of Coulomb Pseudopotential](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.035132)
 <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
-Tao Wang, **Xiansheng Cai**, Kun Chen\*, Nikolay Prokof'ev\*, and Boris Svistunov\*, **Phys. Rev. B 101, 035132**
+Tao Wang, **Xiansheng Cai**, Kun Chen\*, Nikolay Prokof'ev\*, and Boris Svistunov\*, **Phys. Rev. B 101, 035132** (2023)
 
 We address the outstanding problem of electron pairing in the presence of strong Coulomb repulsion at small to moderate values of the Coulomb parameter, rs≲2, and demonstrate that the pseudopotential framework is fundamentally biased and uncontrolled. Instead, one has to break the net result into two distinctively different effects: the Fermi liquid renormalization factor and the change in the effective low-energy coupling. The latter quantity is shown to behave nonmonotonically with an extremum at rs≈0.75. Within the random-phase approximation, Coulomb interaction starts to enhance the effective pairing coupling at rs>2, and the suppression of the critical temperature is entirely due to the renormalized Fermi liquid properties. Leading vertex corrections change this picture only quantitatively. Our results call for radical reconsideration of the widely accepted repulsive pseudopotential approach and show the need for precise microscopic treatment of Coulomb interactions in the problem of superconducting instability.
 
