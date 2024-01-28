@@ -29,7 +29,7 @@ I'm also working in collaboration with other developers to develop a Julia proje
 # Publications 
 <span class='anchor' id='-publications'></span>
 
-- [Probing Superconductivity in Two-dimensional Uniform Electron Gas by Precursory Cooper Flow](https://arxiv.org/abs/2303.03624), Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **ArXiv 2303.03624**(2023) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:_FxGoFyzp5QC'></span></strong>
+- [Precursory Cooper flow in ultralow-temperature superconductors](http://link.aps.org/doi/10.1103/PhysRevResearch.6.013099), Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. Research 6, 013099**(2024) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 - [Origin of Coulomb Pseudopotential](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L140507), Tao Wang, **Xiansheng Cai**, Kun Chen\*, Nikolay Prokof'ev\*, and Boris Svistunov\*,  **Phys. Rev. B 107, L140507**(2023) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:LkGwnXOMwfcC'></span></strong>
 

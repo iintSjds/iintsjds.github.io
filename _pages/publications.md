@@ -14,10 +14,10 @@ author_profile: true
 
 # Publications 
 
-## [Precursory Cooper Flow in Ultralow-Temperature Superconductors](https://arxiv.org/abs/2303.03624)
+## [Precursory Cooper Flow in Ultralow-Temperature Superconductors](http://link.aps.org/doi/10.1103/PhysRevResearch.6.013099)
 <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:_FxGoFyzp5QC'></span></strong>
 
-Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **ArXiv 2303.03624**(2023)
+Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. Research 6, 013099**(2024)
 
 Superconductivity at low temperature --- observed in lithium and bismuth, as well as in various low-density superconductors --- calls for developing reliable theoretical and experimental tools for predicting ultralow critical temperatures, $T_c$, of Cooper instability in a system demonstrating nothing but normal Fermi liquid behavior in a broad range of temperatures below the Fermi energy, $T_F$. Equally important are controlled predictions of stability in a given Cooper channel. We identify such a protocol within the paradigm of precursory Cooper flow --- a universal ansatz describing logarithmically slow temperature evolution of the linear response of the normal state to the pair-creating perturbation. Applying this framework to the two-dimensional uniform electron gas, we reveal a series of exotic superconducting states, pushing controlled theoretical predictions of $T_c$ to the unprecedentedly low scale of $10^{−100}T_F$. 
 
