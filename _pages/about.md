@@ -16,8 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. student majoring physics at the University of Massachusetts Amherst, under the supervision of Prof. Nikolay Prokof'ev and Boris Svistunov.
-
 My research interests encompass theoretical and numerical
 quantum many-body physics, with a particular emphasis on correlated electrons
 and frustrated magnetism. My recent research primarily centers on first principle study of superconductivity with quantum field theoretical approach and modern
@@ -29,11 +27,13 @@ I'm also working in collaboration with other developers to develop a Julia proje
 # Publications 
 <span class='anchor' id='-publications'></span>
 
-- [Precursory Cooper flow in ultralow-temperature superconductors](http://link.aps.org/doi/10.1103/PhysRevResearch.6.013099), Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. Research 6, 013099**(2024) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:_FxGoFyzp5QC'></span></strong>
+- [Feynman Diagrams as Computational Graphs](https://arxiv.org/abs/2403.18840), Pengcheng Hou, Tao Wang, Daniel Cerkoney, **Xiansheng Cai**, Zhiyi Li, Youjin Deng, Lei Wang, Kun Chen, **arXiv 2403.18840**(2024) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:hqOjcs7Dif8C'></span></strong>
+
+- [Precursory Cooper flow in ultralow-temperature superconductors](http://link.aps.org/doi/10.1103/PhysRevResearch.6.013099), Pengcheng Hou, **Xiansheng Cai**, Tao Wang, Youjin Deng, Nikolay Prokof'ev\*, Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. Research 6, 013099**(2024) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:UebtZRa9Y70C'></span></strong>
 
 - [Origin of Coulomb Pseudopotential](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L140507), Tao Wang, **Xiansheng Cai**, Kun Chen\*, Nikolay Prokof'ev\*, and Boris Svistunov\*,  **Phys. Rev. B 107, L140507**(2023) <strong><span class='show_paper_citations' data='BTVksHYAAAAJ:LkGwnXOMwfcC'></span></strong>
 
-- [Superconductivity in the Uniform Electron Gas: Irrelevance of Kohn-Luttinger Mechanism](https://arxiv.org/abs/2202.01320), **Xiansheng Cai**, Tao Wang, Nikolay Prokof'ev\*,  Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. B 106, L220502**(2022)<strong><span class='show_paper_citations' data='BTVksHYAAAAJ:YsMSGLbcyi4C'></span></strong>
+- [Superconductivity in the Uniform Electron Gas: Irrelevance of Kohn-Luttinger Mechanism](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L220502), **Xiansheng Cai**, Tao Wang, Nikolay Prokof'ev\*,  Boris Svistunov\*, and Kun Chen\*, **Phys. Rev. B 106, L220502**(2022)<strong><span class='show_paper_citations' data='BTVksHYAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 - [Quantum-to-classical correspondence in two-dimensional Heisenberg models](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.035132), Tao Wang, **Xiansheng Cai**, Kun Chen, Nikolay Prokof'ev, Boris Svistunov. **Phys. Rev. B 101, 035132**(2020)<strong><span class='show_paper_citations' data='BTVksHYAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
@@ -52,6 +52,6 @@ I'm also working in collaboration with other developers to develop a Julia proje
 # Educations
 <span class='anchor' id='-educations'></span>
 
-- *Sep 2017 - now*, PhD, University of Massachusetts Amherst, Massachusetts, USA
+- *Sep 2017 - Feb 2025*, PhD, University of Massachusetts Amherst, Massachusetts, USA
 
 - *Sep 2013 - Jun 2017*, B.S. University of Science and Technology of China, Hefei, China
