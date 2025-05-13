@@ -48,6 +48,10 @@ I'm also working in collaboration with other developers to develop a Julia proje
 
 - *2021.3*, **APS March Meeting**, Cooper instability in the Jellium model: Implicit renormalization approach.
 
+# Work Experience
+<span class='anchor' id='-work-experience'></span>
+
+- *Mar 2025 - present*, **Postdoctoral Researcher**, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China
 
 # Educations
 <span class='anchor' id='-educations'></span>
